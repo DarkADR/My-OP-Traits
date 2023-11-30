@@ -1,7 +1,7 @@
 ﻿using HarmonyLib;
 using RimWorld;
 using Verse;
-// I love Indomie Instant Noodles
+
 namespace My_OP_Traits
 {
     // Class one, set up the mod
