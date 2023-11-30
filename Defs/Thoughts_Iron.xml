@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ThoughtDef>
+        <defName>ThoughtIron</defName>
+        <workerClass>ThoughtWorker_AlwaysActive</workerClass>
+        <validWhileDespawned>true</validWhileDespawned>
+        <requiredTraits>
+            <li>My_OP_Traits_GodTrait</li>
+        </requiredTraits>
+        <stages>
+            <li>
+                <label>Will of Iron</label>
+                <description>Nothing can shake my will.</description>
+                <baseMoodEffect>100</baseMoodEffect>
+            </li>
+        </stages>
+    </ThoughtDef>
+</Defs>
